@@ -13,15 +13,15 @@
 }
 
 .tema-dark .header__logo {
-    content: url('assets/logo-dark.png');
+    content: url('assets/logos/logo-dark.png');
 }
 
 .tema-dark .output-section__imagem {
-    content: url('assets/personagem-dark.png');
+    content: url('assets/personagem/personagem-dark.png');
 }
 
 .tema-dark .input-section__imagem {
-    content: url('assets/exclamacao-dark.png');
+    content: url('assets/exclamacao/exclamacao-dark.png');
 }
 
 .tema-cofee {
@@ -32,15 +32,15 @@
 }
 
 .tema-cofee .header__logo {
-    content: url('assets/logo-cofee.png');
+    content: url('assets/logos/logo-cofee.png');
 }
 
 .tema-cofee .output-section__imagem {
-    content: url('assets/personagem-cofee.png');
+    content: url('assets/personagem/personagem-cofee.png');
 }
 
 .tema-cofee .input-section__imagem {
-    content: url('assets/exclamacao-cofee.png');
+    content: url('assets/exclamacao/exclamacao-cofee.png');
 }
 
 .tema-natura {
@@ -51,15 +51,15 @@
 }
 
 .tema-natura .header__logo {
-    content: url('assets/logo-natura.png');
+    content: url('assets/logos/logo-natura.png');
 }
 
 .tema-natura .output-section__imagem {
-    content: url('assets/personagem-natura.png');
+    content: url('assets/personagem/personagem-natura.png');
 }
 
 .tema-natura .input-section__imagem {
-    content: url('assets/exclamacao-natura.png');
+    content: url('assets/exclamacao/exclamacao-natura.png');
 }
 
 .tema-sea {
@@ -70,15 +70,15 @@
 }
 
 .tema-sea .header__logo {
-    content: url('assets/logo-sea.png');
+    content: url('assets/logos/logo-sea.png');
 }
 
 .tema-sea .output-section__imagem {
-    content: url('assets/personagem-sea.png');
+    content: url('assets/personagem/personagem-sea.png');
 }
 
 .tema-sea .input-section__imagem {
-    content: url('assets/exclamacao-sea.png');
+    content: url('assets/exclamacao/exclamacao-sea.png');
 }
 
 .tema-padrao {
