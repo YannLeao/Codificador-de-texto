@@ -34,9 +34,9 @@ O codificador substitui vogais específicas por combinações de letras:
 Seguindo o design fornecido, desenvolvi uma aplicação que cumpre todas as especificações e adicionei algumas melhorias.
 
 <div align="center">
-  <img width="30%" src="assets/readme/modelo-figma.png" alt="Modelo do projeto">
+  <img width="80%" src="assets/readme/modelo-figma.png" alt="Modelo do projeto">
 </div>
-[]()
+
 ## 🚀 Resultado
 
 Esta foi minha primeira experiência prática com HTML, CSS e JavaScript, e estou muito satisfeito com o resultado final. O design original foi respeitado, mas acrescentei algumas funcionalidades extras para melhorar a experiência do usuário.
@@ -44,7 +44,7 @@ Esta foi minha primeira experiência prática com HTML, CSS e JavaScript, e esto
 [💻 Experimente o projeto online](https://yannknnay.github.io/Codificador-de-texto/)
 
 <div align="center">
-  <img width="30%" src="assets/readme/gif-projeto.gif" alt="Gif do projeto">
+  <img width="80%" src="assets/readme/gif-projeto.gif" alt="Gif do projeto">
 </div>
 
 ### 🌟 Funcionalidades Adicionais
