@@ -41,7 +41,7 @@ Seguindo o design fornecido, desenvolvi uma aplicação que cumpre todas as espe
 
 Esta foi minha primeira experiência prática com HTML, CSS e JavaScript, e estou muito satisfeito com o resultado final. O design original foi respeitado, mas acrescentei algumas funcionalidades extras para melhorar a experiência do usuário.
 
-[💻 Experimente o projeto online](https://yannknnay.github.io/Codificador-de-texto/)
+[💻 Experimente o projeto online](https://yannleao.github.io/Codificador-de-texto/)
 
 <div align="center">
   <img width="80%" src="assets/readme/gif-projeto.gif" alt="Gif do projeto">
